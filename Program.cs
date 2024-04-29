@@ -17,6 +17,8 @@
 
             Console.WriteLine('\u0040');
             Console.WriteLine('\u0023');
+            Console.WriteLine("\t");
+
             Console.ReadKey();
         }
     }
